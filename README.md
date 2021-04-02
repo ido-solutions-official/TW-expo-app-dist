@@ -1,12 +1,7 @@
-## gitlab link
-link : https://ido-public.gitlab.io/tw-expo-app-dist/
-
 ## github link
-link : https://dev-ido.github.io/tw-expo-app-dev/
+link : https://ido-solutions-official.github.io/TW-expo-app-dist/
 
 ## expo path [android] 
-exps://ido-public.gitlab.io/tw-expo-app-dist/android-index.json
-
 ![CR code](github-expo-app.png)
 
-exps://dev-ido.github.io/tw-expo-app-dev/android-index.json
+exps://ido-solutions-official.github.io/TW-expo-app-dist/android-index.json
